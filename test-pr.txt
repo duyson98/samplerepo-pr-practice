@@ -1,1 +1,2 @@
+Author: NDS
 This is for conflict resolve testing.
